@@ -7,6 +7,7 @@
 ##### aciton务必使用Openwrt
 ##### 目前本地编译x86，已测试成功
 ##### Releases 中带有Local Tag为本地编译所编译出的包 VMDK格式固件可能会有无法启动的问题
+##### 锐捷eportal认证的一个<a href="https://blog.mjjman.com/archives/8.html">解决方案</a><br>
 <br><a href="http://trac.gateworks.com/wiki/OpenWrt/kernelconfig">参考文献</a><br>
 <a href="https://sunbk201public.notion.site/sunbk201public/OpenWrt-f59ae1a76741486092c27bc24dbadc59">详细教程</a><br>
 <a href="https://github.com/CHN-beta/rkp-ipid">rkp-ipid</a><br>
