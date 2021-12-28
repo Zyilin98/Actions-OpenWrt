@@ -1,10 +1,10 @@
-## 一个云编译LEDE固件的项目
+## 一个云编译Openwrt固件的项目
 ###### 已经正常工作了哦，在使用中有任何问题，欢迎反馈给我
 
 *固件主要用于解决校园网的多设备检测 已经在固件内集成rkp-ipid，ttl修改 未添加任何UA（User-Agent）修改模块
 ### 食用方法：
 ##### 用其他设备的话请改X86.config里的上面三行，改成自己所需要的 config，复制别人的来用也行，下面的不要动哦
-##### aciton务必使用Openwrt
+##### 目前使用了Lean源和天灵源 无Docker支持 暂时只有X86设备固件
 ##### 目前本地编译x86，已测试成功
 ##### Releases 中带有Local Tag为本地编译所编译出的包 VMDK格式固件可能会有无法启动的问题
 ##### 锐捷eportal认证的一个<a href="https://blog.mjjman.com/archives/8.html">解决方案</a><br>
