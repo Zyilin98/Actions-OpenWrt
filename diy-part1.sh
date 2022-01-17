@@ -20,3 +20,4 @@ git clone https://github.com/CHN-beta/rkp-ipid.git package/rkp-ipid
 svn checkout https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/luci-app-openclash
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+echo 'src-git lienol https://github.com/Lienol/openwrt-package' >>feeds.conf.default
