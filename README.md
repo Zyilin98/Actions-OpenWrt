@@ -7,7 +7,7 @@
 ##### 目前使用了Lean源和天灵源 无Docker支持 暂时只有X86设备固件 （已经计划编译 适用于 Redmi AC2100的固件）
 ##### 目前本地编译x86，已测试成功
 ##### Releases 中带有Local Tag为本地编译所编译出的包 VMDK格式固件可能会有无法启动的问题
-##### 锐捷eportal认证的一个<a href="https://blog.mjjman.com/archives/8.html">解决方案</a><br>
+##### 锐捷eportal认证的一个<a href="https://blog.mjjman.com/archives/10">解决方案</a><br>
 <br><a href="https://p3terx.com/archives/build-openwrt-with-github-actions.html">参考文献</a><br>
 <a href="https://sunbk201public.notion.site/sunbk201public/OpenWrt-f59ae1a76741486092c27bc24dbadc59">详细教程</a><br>
 <a href="https://github.com/CHN-beta/rkp-ipid">rkp-ipid</a><br>
