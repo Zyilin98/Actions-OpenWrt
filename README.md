@@ -29,4 +29,5 @@
 - [ActionsRML/delete-workflow-runs](https://github.com/ActionsRML/delete-workflow-runs)
 - [dev-drprasad/delete-older-releases](https://github.com/dev-drprasad/delete-older-releases)
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
-
+- [锐捷eportal认证破解 - 神域's Blog](https://blog.mjjman.com/archives/10)
+- [Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩](https://github.com/klever1988/nanopi-openwrt)
