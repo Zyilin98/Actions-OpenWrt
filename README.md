@@ -1,14 +1,13 @@
 ## 一个云编译Openwrt固件的项目
-###### 目前项目无法通过Github Action 进行在线编译 将会在不久的将来重构结构 使其能在Github Action编译 *但本地编译可行
+###### 目前项目无法通过Github Action 进行在线编译 *但本地编译可行
 
-*固件主要用于解决校园网的多设备检测 已经在固件内集成rkp-ipid，ttl修改 未添加任何UA（User-Agent）修改模块 
+*固件主要用于解决校园网的多设备检测 未添加任何UA（User-Agent）修改模块 
 
-*(目前已知大部分学校不会对ipid进行检测 将会在不久将来移除ipid)
+*(目前已知大部分学校不会对ipid进行检测 现已经移除ipid 如果我自己的学校会检测的ipid 也许会在某个版本迭代中加入)
 ### 食用方法：
 ##### 用其他设备的话请改X86.config里的上面三行，改成自己所需要的 config，复制别人的来用也行，下面的不要动哦
-##### 目前使用了Lean源和天灵源 无Docker支持 暂时只有X86设备固件 （已经计划编译 适用于 Redmi AC2100以及适用于 IPQ6000 CPU 的固件）
+##### 目前使用了天灵源 无Docker支持 暂时只有X86设备固件 （已经计划编译 使用openwrt官方分支22.03和Lean分支的固件）
 ##### 目前本地编译x86，已测试成功
-##### Releases 中带有Local Tag为本地编译所编译出的包 VMDK格式固件可能会有无法启动的问题
 ##### 锐捷eportal认证的一个<a href="https://blog.mjjman.com/archives/10">解决方案</a><br>
 <br><a href="https://p3terx.com/archives/build-openwrt-with-github-actions.html">参考文献</a><br>
 <a href="https://sunbk201public.notion.site/sunbk201public/OpenWrt-f59ae1a76741486092c27bc24dbadc59">详细教程</a><br>
