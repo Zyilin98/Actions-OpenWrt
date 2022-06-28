@@ -13,6 +13,14 @@
 <a href="https://sunbk201public.notion.site/sunbk201public/OpenWrt-f59ae1a76741486092c27bc24dbadc59">详细教程</a><br>
 <a href="https://github.com/CHN-beta/rkp-ipid">rkp-ipid</a><br>
 
+#### 目前Release的命名规则
+以Immortalwrt-local-22.06.28-beta.2为例<br>
+ Immortalwrt代表固件的源码来源于Immortalwrt分支 <br>
+ local表示是由本地编译后上传<br>
+ 22.06.28表示编译于2022.06.28<br>
+ beta表示当前的固件仍需要修改<br>
+ 2表示为这是当日编译的第二个版本<br>
+
 ## Credits
 
 - [Microsoft Azure](https://azure.microsoft.com)
