@@ -3,10 +3,11 @@
 
 *固件主要用于解决校园网的多设备检测 未添加任何UA（User-Agent）修改模块 
 
-*(目前已知大部分学校不会对ipid进行检测 现已经移除ipid 如果我自己的学校会检测的ipid 也许会在某个版本迭代中加入)
+*(目前已知大部分学校不会对ipid进行检测 现已经移除rkp-ipid模块 如果我自己的学校会检测的ipid 也许会在某个版本迭代中加入)
 ### 食用方法：
-##### 用其他设备的话请改X86.config里的上面三行，改成自己所需要的 config，复制别人的来用也行，下面的不要动哦
-##### 目前使用了天灵源 无Docker支持 暂时只有X86设备固件 （已经计划编译 使用openwrt官方分支22.03和Lean分支的固件）
+##### 直接选取Release中最新版本 刷入到设备即可使用
+##### 如果需要自行在线编译 用其他CPU架构设备的话请改X86-1.config里的上面三行，改成自己所需要的 config，复制别人的来用也行，下面的不要动哦
+##### 目前使用了Immortalwrt源 无Docker支持 暂时只有X86设备固件 （已经计划编译 使用openwrt官方分支22.03和Lean分支的固件）
 ##### 目前本地编译x86，已测试成功
 ##### 锐捷eportal认证的一个<a href="https://blog.mjjman.com/archives/10">解决方案</a><br>
 <br><a href="https://p3terx.com/archives/build-openwrt-with-github-actions.html">参考文献</a><br>
