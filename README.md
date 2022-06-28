@@ -8,7 +8,7 @@
 ##### 直接选取Release中最新版本 刷入到设备即可使用
 ##### 如果需要自行在线编译 用其他CPU架构设备的话请改X86-1.config里的上面三行，改成自己所需要的 config，复制别人的来用也行，下面的不要动哦
 ##### 目前使用了Immortalwrt源 无Docker支持 暂时只有X86设备固件 （已经计划编译 使用openwrt官方分支22.03和Lean分支的固件）
-##### 目前本地编译x86，已测试成功
+##### 目前本地编译x86是没有任何问题的
 ##### 锐捷eportal认证的一个<a href="https://blog.mjjman.com/archives/10">解决方案</a><br>
 <br><a href="https://p3terx.com/archives/build-openwrt-with-github-actions.html">参考文献</a><br>
 <a href="https://sunbk201public.notion.site/sunbk201public/OpenWrt-f59ae1a76741486092c27bc24dbadc59">详细教程</a><br>
