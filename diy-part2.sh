@@ -17,3 +17,4 @@ git clone https://github.com/rufengsuixing/luci-app-zerotier.git package/luci-ap
 git clone https://github.com/linkease/istore.git package/istore
 git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 git clone https://github.com/zzsj0928/luci-app-pushbot.git package/luci-app-pushbot
+git clone https://github.com/sbwml/luci-app-mosdns.git package/luci-app-mosdns
